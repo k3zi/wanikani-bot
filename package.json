@@ -1,0 +1,29 @@
+{
+  "name": "wanikani-bot",
+  "version": "1.0.0",
+  "description": "A bot for Slack",
+  "main": "lib/wanikani-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k3zi/wanikani-bot.git"
+  },
+  "keywords": [
+    "wani",
+    "kani",
+    "bot",
+    "slack"
+  ],
+  "author": "Kesi Maduka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k3zi/wanikani-bot/issues"
+  },
+  "homepage": "https://github.com/k3zi/wanikani-bot#readme",
+  "dependencies": {
+    "slackbots": "^1.0.2",
+    "sqlite3": "^3.1.8"
+  }
+}

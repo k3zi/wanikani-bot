@@ -2,6 +2,11 @@
 logs
 *.log
 npm-debug.log*
+**.DS_Store
+
+# DBs
+data/*
+**.db
 
 # Runtime data
 pids
